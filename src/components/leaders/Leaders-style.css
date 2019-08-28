@@ -1,0 +1,25 @@
+.userlist ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.userlist li img {
+    width: 100px;
+    margin-right: 15px;
+}
+.userlist li {
+    display: inline-block;
+}
+.userlist li:hover {
+    background: lightblue;
+}
+
+.userlist li {
+    display: inline-block;
+    width: 48%;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
